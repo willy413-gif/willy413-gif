@@ -64,7 +64,6 @@ Soy desarrollador backend con experiencia en **Laravel, APIs y arquitectura web*
 
 ## 📊 Estadísticas
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=willy413-gif&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willy413-gif&layout=compact&theme=tokyonight)
 
 ---
 
