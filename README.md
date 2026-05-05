@@ -1,5 +1,7 @@
 # Willy Peña
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/willy413-gif/willy413-gif/main/banner.png" width="800"/>
+</p>
 Backend Developer · Networking · AI
 
 ---
