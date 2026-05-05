@@ -1,56 +1,35 @@
-# 🚀 Willy Peña Mijahuanca
+# Willy Peña
 
-💻 Backend Developer | Networking | AI Research  
-📍 Lambayeque, Perú  
-
----
-
-## 🧠 Sobre mí
-Soy desarrollador backend con experiencia en **Laravel, APIs y arquitectura web**, complementado con sólidos conocimientos en **redes, infraestructura y ciberseguridad**.
-
-🔬 Autor de investigación en IA aplicada a detección de ataques DoS en redes SDN  
-⚡ Experiencia real en despliegue de redes FTTH, configuración de switches y sistemas de videovigilancia  
-🚀 Enfocado en construir soluciones escalables y seguras  
+Backend Developer · Networking · AI
 
 ---
 
-## 🛠️ Stack Tecnológico
+Construyo APIs escalables y soluciones que integran software con infraestructura real.  
+Experiencia en backend, redes y sistemas distribuidos.
 
+---
+
+## Stack
 ![Stack](https://skillicons.dev/icons?i=laravel,spring,nodejs,nest,vue,angular,mysql,postgres,mongodb,docker,aws,linux)
 
 ---
 
-## 🔬 Investigación
-📄 **Artificial Intelligence-based Detection Methods in SDN for DoS Attacks**  
-- Publicado en LEIRD 2025  
-- Análisis de más de 70 modelos de IA  
-- Precisión superior al 80%  
+## Work
+- Backend con Laravel (APIs, lógica de negocio)
+- Infraestructura de red (FTTH, switching, CCTV)
+- Investigación en IA aplicada a ciberseguridad (DoS en SDN)
 
 ---
 
-## 💼 Experiencia
-- 🧑‍💻 Backend Developer – Laravel (Remoto)
-- 🌐 Técnico en Telecomunicaciones (FTTH, redes, CCTV)
-- 🏛️ Practicante de Redes – Municipalidad de Chiclayo
+## Stats
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=willy413-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ---
 
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=willy413-gif&show_icons=true&theme=tokyonight)
+## Contact
+- Email: willypena413@gmail.com
+- LinkedIn: https://www.linkedin.com/in/willy-peña-214b01364
 
 ---
 
-## 📫 Contacto
-📧 willypena413@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/willy-peña-214b01364  
-
----
-
-## ⚡ En lo que estoy trabajando
-- Sistemas backend escalables
-- Integración de IA en aplicaciones reales
-- Automatización y agentes inteligentes
-
----
-
-✨ *“Construyendo soluciones reales, no solo código”*
+> Building real-world systems, not just code.
