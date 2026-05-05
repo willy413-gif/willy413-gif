@@ -30,7 +30,7 @@
 ---
 
 ## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=willy413-gif&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=willy413-gif&show_icons=true&theme=tokyonight)
 
 ---
 
