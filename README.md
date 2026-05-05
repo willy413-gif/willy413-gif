@@ -16,34 +16,7 @@ Soy desarrollador backend con experiencia en **Laravel, APIs y arquitectura web*
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Backend
-- Laravel
-- Spring Boot
-- NestJS
-- Node.js
-
-### 🌐 Frontend
-- Vue.js
-- Angular
-- JavaScript / TypeScript
-
-### 🗄️ Bases de Datos
-- MySQL
-- PostgreSQL
-- SQL Server
-- MongoDB
-
-### ⚙️ DevOps & Infraestructura
-- Docker
-- VMware
-- Linux
-- AWS (en formación)
-
-### 🌐 Redes
-- Configuración de switches y routers
-- Direccionamiento IP
-- FTTH / HFC
-- CCTV (Cámaras IP)
+![Stack](https://skillicons.dev/icons?i=laravel,spring,nodejs,nest,vue,angular,mysql,postgres,mongodb,docker,aws,linux)
 
 ---
 
